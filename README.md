@@ -1,4 +1,4 @@
-# xmastool
+# xmas-tool
 A count down until next cristmas
 
 ## Usage
